@@ -2,38 +2,37 @@
 
 ## Solicitação
 
-Transforme o tema em uma pergunta clara, específica e respondível por meio da literatura científica.
-
+se perguntarmos hoje, você poderia descrever o quanto a tecnologia interfere no seu dia a dia?
 ## Tema aprovado
 
-`[copie o tema da etapa anterior]`
+`[impacto social da tecnologia]`
 
 ## Pergunta de pesquisa
 
-`[Escreva uma única pergunta.]`
+`[como vc utiliza a tecnologia na maior parte do tempo?]`
 
 ## Verificação
 
-- O que se deseja descobrir ou compreender? `[preencher]`
-- Qual é o objeto da pergunta? `[preencher]`
-- Qual é o contexto ou recorte? `[preencher]`
-- A pergunta pode ser respondida por artigos científicos? `[Sim/Não. Justifique.]`
-- Por que essa pergunta é relevante? `[preencher]`
+- O que se deseja descobrir ou compreender? `[entender o quanto temos noção do impacto da tecnologia em nosso dia a dia como sociedade]`
+- Qual é o objeto da pergunta? `[tecnologia]`
+- Qual é o contexto ou recorte? `[o tema no qual estamos abordando]`
+- A pergunta pode ser respondida por artigos científicos? `[Sim, a diversos artigos não só cientificos, como artigos de opinião sobre o assunto]`
+- Por que essa pergunta é relevante? `[para deixar o questionamento e reflexão sobre o tema apresentado]`
 
 ## Produto da etapa
 
-Pergunta de pesquisa aprovada.
+como vc utiliza a tecnologia na maior parte do tempo?.
 
 ## Checklist
 
-- [ ] Está escrita em forma de pergunta.
-- [ ] É clara e objetiva.
-- [ ] Está alinhada ao tema.
-- [ ] Pode ser respondida por revisão bibliográfica.
-- [ ] Não exige experimento que não será realizado.
+- [x ] Está escrita em forma de pergunta.
+- [ x] É clara e objetiva.
+- [ X] Está alinhada ao tema.
+- [x ] Pode ser respondida por revisão bibliográfica.
+- [ x] Não exige experimento que não será realizado.
 
 ## Contribuições
 
 | Integrante | Atividade realizada |
 |---|---|
-| `[nome]` | `[preencher]` |
+| `[HUGO TRINDADE, VINICIUS MARQUES ALEXANDRE VICCO]` 
