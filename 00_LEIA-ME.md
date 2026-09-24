@@ -15,11 +15,11 @@ Preencha os arquivos na ordem indicada. Não apague os títulos nem as perguntas
 
 ## Identificação geral
 
-- Curso e disciplina: `[preencher]`
-- Professor ou orientador: `[preencher]`
+- Curso e disciplina: `[ADS - Desing profissional]`
+- Professor ou orientador: `[Isabela]`
 - Grupo: `[preencher]`
-- Integrantes: `[preencher]`
-- Data de início: `[dd/mm/aaaa]`
+- Integrantes: `[Hugo Trindade Lino da Silva, Vinicius Marques de Mendonça, alexandre de Paiva vicco de Fontes Junior]`
+- Data de início: `[24/09/2026]`
 
 
 
