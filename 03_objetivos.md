@@ -2,38 +2,40 @@
 
 ## Solicitação
 
-Defina o objetivo geral e os objetivos específicos do artigo.
-
 ## Problema de pesquisa
 
-`[copie a pergunta aprovada]`
+`[como vc utiliza a tecnologia na maior parte do tempo?]`
 
 ## Objetivo geral
 
-`[Inicie com um verbo no infinitivo, como analisar, comparar, identificar, mapear, discutir ou sintetizar.]`
+`[é preciso analisar o impacto da tecnologia no dia a dia, e ver até onde estamos utilizando de forma inteligente e a nosso favor]`
 
 ## Objetivos específicos
 
-1. `[preencher]`
-2. `[preencher]`
-3. `[preencher]`
+1. `[solucionar problemas que vieram com a tecnologia]`
+2. `[analisar onde podemos minimizar o uso das tecnologias]`
+3. `[aprender sobre o uso e implementação de novas tecnologias]`
 4. `[opcional]`
 
 ## Quadro de alinhamento
 
 | Elemento | Texto |
 |---|---|
-| Problema | `[preencher]` |
-| Objetivo geral | `[preencher]` |
-| Resultado esperado | `[O que o artigo deverá apresentar ao final?]` |
+| Problema | `[impacto negativo da tecnologia na sociedade]` |
+| Objetivo geral | `[entender o impacto da tecnologia na sociedade]` |
+| Resultado esperado | `[exemplos e analises sobre a tecnologia em nossa sociedade]` |
 
 ## Produto da etapa
 
-Um objetivo geral e de três a quatro objetivos específicos.
+impacto da tecnologia na sociedade
+
+mau uso da tecnologia 
+uso da tecnologia para atos ilicitos como roubos e fraudes
+utilização da tecnologia na saude
 
 ## Checklist
 
-- [ ] Os objetivos começam com verbos no infinitivo.
-- [ ] O objetivo geral responde ao problema.
-- [ ] Os objetivos específicos detalham o objetivo geral.
-- [ ] Os objetivos são compatíveis com uma revisão bibliográfica.
+- [x ] Os objetivos começam com verbos no infinitivo.
+- [ x] O objetivo geral responde ao problema.
+- [ x] Os objetivos específicos detalham o objetivo geral.
+- [ x] Os objetivos são compatíveis com uma revisão bibliográfica.
