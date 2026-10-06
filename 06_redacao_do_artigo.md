@@ -112,7 +112,15 @@ Métodos e limitações. As revisões guarda-chuva sintetizam metanálises e rev
 
 ## Referências
 
-`[Liste apenas as fontes citadas, conforme o padrão solicitado.]`
+REF 1:KOWALSKI, R. M.; GIUMETTI, G. W.; SCHROEDER, A. N.; LATTANNER, M. R. Bullying in the digital age: a critical review and meta-analysis of cyberbullying research among youth. Psychological Bulletin, v. 140, n. 4, p. 1073-1137, 2014. DOI: 10.1037/a0035618.
+
+REF 2: AUTOR, D. H. Why are there still so many jobs? The history and future of workplace automation. Journal of Economic Perspectives, v. 29, n. 3, p. 3-30, 2015. DOI: 10.1257/jep.29.3.3.
+
+É o mais próximo da sua introdução. O artigo recua até o movimento ludista do início do século XIX e a preocupação com "os desempregados da automação" de 1961. Ele conclui que a automação substitui trabalho, mas também o complementa e aumenta a demanda por trabalhadores. Combina bem com o seu exemplo da máquina de lavar e com a questão de a tecnologia substituir pessoas.
+
+REF 3:KASNECI, E. et al. ChatGPT for good? On opportunities and challenges of large language models for education. Learning and Individual Differences, v. 103, art. 102274, 2023. DOI: 10.1016/j.lindif.2023.102274.
+
+O artigo apresenta benefícios e desafios dos grandes modelos de linguagem na educação, do ponto de vista de alunos e professores. Os autores defendem que professores e estudantes precisam desenvolver competências para entender a tecnologia e seus limites. Atenção: é um artigo de posicionamento, não um estudo experimental, então use-o para argumentar, não para citar dados. 
 
 ## Checklist
 
