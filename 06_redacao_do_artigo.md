@@ -100,11 +100,35 @@ Métodos e limitações. As revisões guarda-chuva sintetizam metanálises e rev
 
 ### Síntese crítica
 
-`[Apresente tendências, convergências, divergências e lacunas.]`
+Eixo 1: IA generativa e mundo do trabalho
+
+A literatura apresentada não aponta uma direção única. Há estudos que identificam efeitos negativos sobre a demanda por trabalho em ocupações muito expostas à IA (Hui, Reshef e Zhou, com queda de cerca de 2% nos contratos e 5% nos ganhos de freelancers após o ChatGPT) e outros que destacam ganhos de produtividade (Noy e Zhang, 2023). Essa divergência indica que a IA generativa não afeta o trabalho de forma homogênea. O efeito depende de quem trabalha, de qual tarefa é realizada e de como a tecnologia é adotada.
+
+Esse ponto aparece na heterogeneidade dos resultados. Hosseini Maasoum e Lichtinger (2025) mostram viés de senioridade, com queda do emprego júnior em relação ao sênior. Johnston e Makridis (2025) observam ganhos médios em setores expostos, mas perdas onde a IA substitui diretamente o trabalho. A revisão sistemática citada reforça que o deslocamento atinge sobretudo quem tem poucas habilidades digitais. Em conjunto, os estudos sugerem que a tecnologia tende a ampliar desigualdades já existentes, o que conversa com a preocupação da introdução de que a tecnologia possa "substituir até mesmo pessoas".
+
+Do ponto de vista crítico, a base empírica tem fragilidades. Os desenhos quase-experimentais dão robustez causal, mas limitam a generalização. Muitos estudos usam mercados de freelancers, que não representam o emprego formal. Parte do material são working papers, sem revisão por pares. Há ainda indícios de efeitos agregados nulos ou modestos até 2024–2025, o que recomenda cautela com discursos alarmistas. A ausência de produção brasileira também é uma lacuna relevante, já que o mercado de trabalho nacional tem características próprias, como alta informalidade.
+
+Eixo 2: Redes sociais e saúde mental de adolescentes
+
+A maior parte da literatura associa o uso de redes sociais a piores desfechos, sobretudo depressão e ansiedade, mas a relação é descrita como complexa. O uso problemático e o consumo passivo teriam as associações mais fortes, enquanto o engajamento ativo foi por vezes associado a benefícios, como mais apoio social e menos solidão. Isso desloca a discussão do "quanto tempo" para o "como" e o "para quê" do uso. Os mecanismos apontados (privação de sono, comparação social, busca por feedback) e a maior consistência da duração do uso em meninas reforçam que os efeitos variam conforme o tipo de uso e o perfil do usuário.
+
+Há controvérsia sobre a magnitude do efeito. Meier e Reinecke (2021) descrevem uma pequena associação negativa, e Odgers e Jensen (2020) falam em associações pequenas e inconsistentes. Isso contrasta com a ideia, comum no debate público, de que as redes seriam a causa central do sofrimento psíquico juvenil. A evidência sustenta associação, não causalidade comprovada.
+
+As limitações metodológicas explicam parte dessa inconsistência: predomínio de estudos transversais, excesso de medidas autorrelatadas, amostras de conveniência e falta de padronização conceitual (tecnologia digital, tempo online e uso de redes tratados como sinônimos). A revisão de Tølbøll (2026), com 72 revisões, registra resultados inconsistentes e contraditórios. Como no Eixo 1, quase tudo vem de contexto internacional e em inglês, o que limita a aplicação à realidade brasileira.
+
+Síntese crítica transversal
+
+Os dois eixos convergem em quatro pontos. O primeiro é que o impacto da tecnologia é ambivalente e mediado por fatores como habilidades digitais, tipo de uso, idade e gênero. O segundo é que a qualidade da evidência é desigual: há muita associação e pouca causalidade, e boa parte do material é recente ou ainda sem revisão por pares. O terceiro é que predomina a produção internacional, com lacuna de estudos brasileiros. O quarto é que o eixo da educação, previsto na pergunta norteadora e na metodologia, ainda não foi desenvolvido, o que deixa a revisão incompleta em relação ao seu próprio escopo.
 
 ## Considerações finais
 
-`[Responda ao problema, interprete os achados, destaque avanços e limitações e indique implicações futuras específicas.]`
+Este trabalho partiu da experiência da geração Z, que viveu a transição de tarefas manuais para a automação e também os efeitos negativos da vida digital, como o cyberbullying. A revisão integrativa buscou entender, com base na literatura científica, quais impactos sociais, positivos e negativos, o avanço das tecnologias digitais produz no trabalho, na educação e na saúde mental.
+
+Os achados desenvolvidos mostram que não há resposta simples. No trabalho, a IA generativa pode reduzir a demanda em ocupações mais expostas e atingir mais os trabalhadores juniores e com menos habilidades digitais, mas também pode elevar a produtividade, o que indica que seus efeitos dependem de como é incorporada. Na saúde mental, as redes sociais aparecem associadas a depressão e ansiedade, sobretudo no uso problemático e passivo, embora a magnitude desse efeito seja debatida e o uso ativo possa trazer benefícios. Em ambos os casos, a tecnologia não é boa nem má em si. Seus efeitos dependem do contexto, do modo de uso e das condições de quem a utiliza.
+
+A ideia de que a tecnologia poderia "substituir até mesmo pessoas" encontra apoio parcial: há evidências de deslocamento em certas ocupações, mas também de complementaridade e de efeitos agregados modestos até o momento. Isso sugere que o desafio central é distribuir seus benefícios e riscos de forma mais equilibrada, por meio de formação em habilidades digitais, uso consciente e políticas de proteção a públicos vulneráveis, como adolescentes e trabalhadores em início de carreira.
+
+As limitações do estudo precisam ser reconhecidas. A busca realizada foi exploratória, parte das fontes são working papers, predominam estudos em inglês e de contexto internacional, e o eixo da educação ainda não foi contemplado. Recomenda-se, portanto, que pesquisas futuras realizem a busca sistemática prevista na metodologia, avaliem a qualidade dos estudos (por exemplo, com o MMAT), ampliem a análise para a educação e priorizem estudos longitudinais e produzidos no Brasil. Só assim será possível compreender como esses impactos se manifestam na realidade da geração Z brasileira.
 
 ## Resumo
 
