@@ -12,7 +12,7 @@ Considerando *INTRODUÇÃO*, *METODOLOGIA*, *REVISÃO DA LITERATURA*, *SÍNTESE 
 
 ## Palavras-chave
 
-`[Tecnologis]; [Sociedade]; [Impacto]`
+`[Tecnologia]; [Sociedade]; [Impacto]`
 
 ## Introdução
 
